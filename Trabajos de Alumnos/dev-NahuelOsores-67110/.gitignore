@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Compilacion de .NET
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Archivos generados por Visual Studio
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
