@@ -1,0 +1,4 @@
+[2026-10-28T13:10:26.215Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.6f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 15364 --ipc-path Unity-Upm-15364 -l 2 --log-file C:\\Users\\sebab\\Desktop\\Tecnicatura\\Proyecto\\Pokemon/Logs/upm.log
+[2026-10-28T13:10:26.302Z][INFO] IPC server started (IPC path=Unity-Upm-15364).
+[2026-10-28T13:10:26.302Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-15364.
+[2026-10-28T13:10:34.385Z][INFO] Shutting down UnityPackageManager.exe: parent process [15364] is no longer running.
