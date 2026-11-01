@@ -1,0 +1,14 @@
+C:\Users\MARCELO\Desktop\visual studio codigo\ejercicio2 POO 1 y 2\bin\Debug\net8.0\ejercicio2 POO 1 y 2.exe
+C:\Users\MARCELO\Desktop\visual studio codigo\ejercicio2 POO 1 y 2\bin\Debug\net8.0\ejercicio2 POO 1 y 2.deps.json
+C:\Users\MARCELO\Desktop\visual studio codigo\ejercicio2 POO 1 y 2\bin\Debug\net8.0\ejercicio2 POO 1 y 2.runtimeconfig.json
+C:\Users\MARCELO\Desktop\visual studio codigo\ejercicio2 POO 1 y 2\bin\Debug\net8.0\ejercicio2 POO 1 y 2.dll
+C:\Users\MARCELO\Desktop\visual studio codigo\ejercicio2 POO 1 y 2\bin\Debug\net8.0\ejercicio2 POO 1 y 2.pdb
+C:\Users\MARCELO\Desktop\visual studio codigo\ejercicio2 POO 1 y 2\obj\Debug\net8.0\ejercicio2 POO 1 y 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCELO\Desktop\visual studio codigo\ejercicio2 POO 1 y 2\obj\Debug\net8.0\ejercicio2 POO 1 y 2.AssemblyInfoInputs.cache
+C:\Users\MARCELO\Desktop\visual studio codigo\ejercicio2 POO 1 y 2\obj\Debug\net8.0\ejercicio2 POO 1 y 2.AssemblyInfo.cs
+C:\Users\MARCELO\Desktop\visual studio codigo\ejercicio2 POO 1 y 2\obj\Debug\net8.0\ejercicio2 POO 1 y 2.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Desktop\visual studio codigo\ejercicio2 POO 1 y 2\obj\Debug\net8.0\ejercicio2 POO 1 y 2.dll
+C:\Users\MARCELO\Desktop\visual studio codigo\ejercicio2 POO 1 y 2\obj\Debug\net8.0\refint\ejercicio2 POO 1 y 2.dll
+C:\Users\MARCELO\Desktop\visual studio codigo\ejercicio2 POO 1 y 2\obj\Debug\net8.0\ejercicio2 POO 1 y 2.pdb
+C:\Users\MARCELO\Desktop\visual studio codigo\ejercicio2 POO 1 y 2\obj\Debug\net8.0\ejercicio2 POO 1 y 2.genruntimeconfig.cache
+C:\Users\MARCELO\Desktop\visual studio codigo\ejercicio2 POO 1 y 2\obj\Debug\net8.0\ref\ejercicio2 POO 1 y 2.dll

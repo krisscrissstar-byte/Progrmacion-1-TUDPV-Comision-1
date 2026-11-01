@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\games\\PROJECT\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\EJ5-Resuelto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28BDA5E1-EC28-410D-87A9-3CFE8E7CD07C}|EJ5-Resuelto\\EJ5-Resuelto.csproj|f:\\games\\project\\progrmacion-1-tudpv-comision-1\\trabajos de alumnos\\ej5-resuelto\\ej5-resuelto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28BDA5E1-EC28-410D-87A9-3CFE8E7CD07C}|EJ5-Resuelto\\EJ5-Resuelto.csproj|solutionrelative:ej5-resuelto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\games\\PROJECT\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\EJ5-Resuelto\\EJ5-Resuelto\\Program.cs",
+              "RelativeDocumentMoniker": "EJ5-Resuelto\\Program.cs",
+              "ToolTip": "F:\\games\\PROJECT\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\EJ5-Resuelto\\EJ5-Resuelto\\Program.cs",
+              "RelativeToolTip": "EJ5-Resuelto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T14:17:37.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

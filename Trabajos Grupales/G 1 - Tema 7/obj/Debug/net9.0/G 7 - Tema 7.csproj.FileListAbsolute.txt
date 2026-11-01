@@ -1,0 +1,15 @@
+C:\Users\tomas\source\repos\Programacion-1-TUDPV-Comision-1\Trabajos Grupales\G 7 - Tema 7\bin\Debug\net9.0\G 7 - Tema 7.exe
+C:\Users\tomas\source\repos\Programacion-1-TUDPV-Comision-1\Trabajos Grupales\G 7 - Tema 7\bin\Debug\net9.0\G 7 - Tema 7.deps.json
+C:\Users\tomas\source\repos\Programacion-1-TUDPV-Comision-1\Trabajos Grupales\G 7 - Tema 7\bin\Debug\net9.0\G 7 - Tema 7.runtimeconfig.json
+C:\Users\tomas\source\repos\Programacion-1-TUDPV-Comision-1\Trabajos Grupales\G 7 - Tema 7\bin\Debug\net9.0\G 7 - Tema 7.dll
+C:\Users\tomas\source\repos\Programacion-1-TUDPV-Comision-1\Trabajos Grupales\G 7 - Tema 7\bin\Debug\net9.0\G 7 - Tema 7.pdb
+C:\Users\tomas\source\repos\Programacion-1-TUDPV-Comision-1\Trabajos Grupales\G 7 - Tema 7\obj\Debug\net9.0\G 7 - Tema 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\source\repos\Programacion-1-TUDPV-Comision-1\Trabajos Grupales\G 7 - Tema 7\obj\Debug\net9.0\G 7 - Tema 7.AssemblyInfoInputs.cache
+C:\Users\tomas\source\repos\Programacion-1-TUDPV-Comision-1\Trabajos Grupales\G 7 - Tema 7\obj\Debug\net9.0\G 7 - Tema 7.AssemblyInfo.cs
+C:\Users\tomas\source\repos\Programacion-1-TUDPV-Comision-1\Trabajos Grupales\G 7 - Tema 7\obj\Debug\net9.0\G 7 - Tema 7.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Programacion-1-TUDPV-Comision-1\Trabajos Grupales\G 7 - Tema 7\obj\Debug\net9.0\G 7 - Tema 7.sourcelink.json
+C:\Users\tomas\source\repos\Programacion-1-TUDPV-Comision-1\Trabajos Grupales\G 7 - Tema 7\obj\Debug\net9.0\G 7 - Tema 7.dll
+C:\Users\tomas\source\repos\Programacion-1-TUDPV-Comision-1\Trabajos Grupales\G 7 - Tema 7\obj\Debug\net9.0\refint\G 7 - Tema 7.dll
+C:\Users\tomas\source\repos\Programacion-1-TUDPV-Comision-1\Trabajos Grupales\G 7 - Tema 7\obj\Debug\net9.0\G 7 - Tema 7.pdb
+C:\Users\tomas\source\repos\Programacion-1-TUDPV-Comision-1\Trabajos Grupales\G 7 - Tema 7\obj\Debug\net9.0\G 7 - Tema 7.genruntimeconfig.cache
+C:\Users\tomas\source\repos\Programacion-1-TUDPV-Comision-1\Trabajos Grupales\G 7 - Tema 7\obj\Debug\net9.0\ref\G 7 - Tema 7.dll

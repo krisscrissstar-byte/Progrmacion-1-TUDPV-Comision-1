@@ -1,0 +1,15 @@
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ9-Resuelto\Ej9\bin\Debug\net8.0\Ej9.exe
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ9-Resuelto\Ej9\bin\Debug\net8.0\Ej9.deps.json
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ9-Resuelto\Ej9\bin\Debug\net8.0\Ej9.runtimeconfig.json
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ9-Resuelto\Ej9\bin\Debug\net8.0\Ej9.dll
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ9-Resuelto\Ej9\bin\Debug\net8.0\Ej9.pdb
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ9-Resuelto\Ej9\obj\Debug\net8.0\Ej9.GeneratedMSBuildEditorConfig.editorconfig
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ9-Resuelto\Ej9\obj\Debug\net8.0\Ej9.AssemblyInfoInputs.cache
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ9-Resuelto\Ej9\obj\Debug\net8.0\Ej9.AssemblyInfo.cs
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ9-Resuelto\Ej9\obj\Debug\net8.0\Ej9.csproj.CoreCompileInputs.cache
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ9-Resuelto\Ej9\obj\Debug\net8.0\Ej9.sourcelink.json
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ9-Resuelto\Ej9\obj\Debug\net8.0\Ej9.dll
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ9-Resuelto\Ej9\obj\Debug\net8.0\refint\Ej9.dll
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ9-Resuelto\Ej9\obj\Debug\net8.0\Ej9.pdb
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ9-Resuelto\Ej9\obj\Debug\net8.0\Ej9.genruntimeconfig.cache
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ9-Resuelto\Ej9\obj\Debug\net8.0\ref\Ej9.dll

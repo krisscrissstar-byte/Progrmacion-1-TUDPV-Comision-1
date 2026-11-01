@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomas\\source\\repos\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\67146-Andujar-Tomas\\Punto10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE843F3-750B-4A3E-BB49-8B1A1E8F2D3C}|Punto10\\Punto10.csproj|c:\\users\\tomas\\source\\repos\\progrmacion-1-tudpv-comision-1\\trabajos de alumnos\\67146-andujar-tomas\\punto10\\punto10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE843F3-750B-4A3E-BB49-8B1A1E8F2D3C}|Punto10\\Punto10.csproj|solutionrelative:punto10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\67146-Andujar-Tomas\\Punto10\\Punto10\\Program.cs",
+              "RelativeDocumentMoniker": "Punto10\\Program.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\67146-Andujar-Tomas\\Punto10\\Punto10\\Program.cs",
+              "RelativeToolTip": "Punto10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T20:50:22.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

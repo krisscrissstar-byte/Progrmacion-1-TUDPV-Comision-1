@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EJ2-Resuelto/1.0.0": {
+        "runtime": {
+          "EJ2-Resuelto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EJ2-Resuelto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MARCELO\\Desktop\\visual studio codigo\\trabajoPracticoN2-MarceloEzequielCerri-67035\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07352A3A-CDFE-4822-AF9D-D4597E52F856}|trabajoPracticoN2-MarceloEzequielCerri-67035.csproj|c:\\users\\marcelo\\desktop\\visual studio codigo\\trabajopracticon2-marceloezequielcerri-67035\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07352A3A-CDFE-4822-AF9D-D4597E52F856}|trabajoPracticoN2-MarceloEzequielCerri-67035.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MARCELO\\Desktop\\visual studio codigo\\trabajoPracticoN2-MarceloEzequielCerri-67035\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MARCELO\\Desktop\\visual studio codigo\\trabajoPracticoN2-MarceloEzequielCerri-67035\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADUBAAAAAAAAAAAmwNMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T23:10:48.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

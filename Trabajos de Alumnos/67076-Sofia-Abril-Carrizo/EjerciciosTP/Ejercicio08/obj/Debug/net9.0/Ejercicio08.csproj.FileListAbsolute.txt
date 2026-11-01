@@ -1,0 +1,15 @@
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio08\bin\Debug\net9.0\Ejercicio08.exe
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio08\bin\Debug\net9.0\Ejercicio08.deps.json
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio08\bin\Debug\net9.0\Ejercicio08.runtimeconfig.json
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio08\bin\Debug\net9.0\Ejercicio08.dll
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio08\bin\Debug\net9.0\Ejercicio08.pdb
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio08\obj\Debug\net9.0\Ejercicio08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio08\obj\Debug\net9.0\Ejercicio08.AssemblyInfoInputs.cache
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio08\obj\Debug\net9.0\Ejercicio08.AssemblyInfo.cs
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio08\obj\Debug\net9.0\Ejercicio08.csproj.CoreCompileInputs.cache
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio08\obj\Debug\net9.0\Ejercicio08.sourcelink.json
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio08\obj\Debug\net9.0\Ejercicio08.dll
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio08\obj\Debug\net9.0\refint\Ejercicio08.dll
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio08\obj\Debug\net9.0\Ejercicio08.pdb
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio08\obj\Debug\net9.0\Ejercicio08.genruntimeconfig.cache
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio08\obj\Debug\net9.0\ref\Ejercicio08.dll

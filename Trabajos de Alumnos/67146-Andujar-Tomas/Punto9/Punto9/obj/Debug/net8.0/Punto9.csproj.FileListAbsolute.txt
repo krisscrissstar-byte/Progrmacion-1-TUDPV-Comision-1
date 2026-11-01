@@ -1,0 +1,15 @@
+C:\Users\tomas\source\repos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67146-Andujar-Tomas\Punto9\Punto9\bin\Debug\net8.0\Punto9.exe
+C:\Users\tomas\source\repos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67146-Andujar-Tomas\Punto9\Punto9\bin\Debug\net8.0\Punto9.deps.json
+C:\Users\tomas\source\repos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67146-Andujar-Tomas\Punto9\Punto9\bin\Debug\net8.0\Punto9.runtimeconfig.json
+C:\Users\tomas\source\repos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67146-Andujar-Tomas\Punto9\Punto9\bin\Debug\net8.0\Punto9.dll
+C:\Users\tomas\source\repos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67146-Andujar-Tomas\Punto9\Punto9\bin\Debug\net8.0\Punto9.pdb
+C:\Users\tomas\source\repos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67146-Andujar-Tomas\Punto9\Punto9\obj\Debug\net8.0\Punto9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\source\repos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67146-Andujar-Tomas\Punto9\Punto9\obj\Debug\net8.0\Punto9.AssemblyInfoInputs.cache
+C:\Users\tomas\source\repos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67146-Andujar-Tomas\Punto9\Punto9\obj\Debug\net8.0\Punto9.AssemblyInfo.cs
+C:\Users\tomas\source\repos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67146-Andujar-Tomas\Punto9\Punto9\obj\Debug\net8.0\Punto9.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67146-Andujar-Tomas\Punto9\Punto9\obj\Debug\net8.0\Punto9.sourcelink.json
+C:\Users\tomas\source\repos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67146-Andujar-Tomas\Punto9\Punto9\obj\Debug\net8.0\Punto9.dll
+C:\Users\tomas\source\repos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67146-Andujar-Tomas\Punto9\Punto9\obj\Debug\net8.0\refint\Punto9.dll
+C:\Users\tomas\source\repos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67146-Andujar-Tomas\Punto9\Punto9\obj\Debug\net8.0\Punto9.pdb
+C:\Users\tomas\source\repos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67146-Andujar-Tomas\Punto9\Punto9\obj\Debug\net8.0\Punto9.genruntimeconfig.cache
+C:\Users\tomas\source\repos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67146-Andujar-Tomas\Punto9\Punto9\obj\Debug\net8.0\ref\Punto9.dll

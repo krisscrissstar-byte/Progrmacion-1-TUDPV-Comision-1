@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Facu\\programaciopn lol\\Githubxd\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\67125 - Santillan - Jorge\\punto3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD763C4-83C6-40A2-999F-8CF339D11CEA}|punto3\\punto3.csproj|c:\\users\\usuario\\onedrive\\desktop\\facu\\programaciopn lol\\githubxd\\progrmacion-1-tudpv-comision-1\\trabajos de alumnos\\67125 - santillan - jorge\\punto3\\punto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD763C4-83C6-40A2-999F-8CF339D11CEA}|punto3\\punto3.csproj|solutionrelative:punto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Facu\\programaciopn lol\\Githubxd\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\67125 - Santillan - Jorge\\punto3\\punto3\\Program.cs",
+              "RelativeDocumentMoniker": "punto3\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Desktop\\Facu\\programaciopn lol\\Githubxd\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\67125 - Santillan - Jorge\\punto3\\punto3\\Program.cs*",
+              "RelativeToolTip": "punto3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T01:04:33.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

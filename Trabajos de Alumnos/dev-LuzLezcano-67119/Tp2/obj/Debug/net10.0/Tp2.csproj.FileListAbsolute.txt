@@ -1,0 +1,16 @@
+C:\Users\sylvi\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67119-LuzLezcano\Tp2\bin\Debug\net10.0\Tp2.exe
+C:\Users\sylvi\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67119-LuzLezcano\Tp2\bin\Debug\net10.0\Tp2.deps.json
+C:\Users\sylvi\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67119-LuzLezcano\Tp2\bin\Debug\net10.0\Tp2.runtimeconfig.json
+C:\Users\sylvi\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67119-LuzLezcano\Tp2\bin\Debug\net10.0\Tp2.dll
+C:\Users\sylvi\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67119-LuzLezcano\Tp2\bin\Debug\net10.0\Tp2.pdb
+C:\Users\sylvi\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67119-LuzLezcano\Tp2\obj\Debug\net10.0\Tp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sylvi\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67119-LuzLezcano\Tp2\obj\Debug\net10.0\Tp2.AssemblyInfoInputs.cache
+C:\Users\sylvi\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67119-LuzLezcano\Tp2\obj\Debug\net10.0\Tp2.AssemblyInfo.cs
+C:\Users\sylvi\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67119-LuzLezcano\Tp2\obj\Debug\net10.0\Tp2.csproj.CoreCompileInputs.cache
+C:\Users\sylvi\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67119-LuzLezcano\Tp2\obj\Debug\net10.0\Tp2.sourcelink.json
+C:\Users\sylvi\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67119-LuzLezcano\Tp2\obj\Debug\net10.0\Tp2.dll
+C:\Users\sylvi\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67119-LuzLezcano\Tp2\obj\Debug\net10.0\refint\Tp2.dll
+C:\Users\sylvi\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67119-LuzLezcano\Tp2\obj\Debug\net10.0\Tp2.pdb
+C:\Users\sylvi\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67119-LuzLezcano\Tp2\obj\Debug\net10.0\Tp2.genruntimeconfig.cache
+C:\Users\sylvi\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67119-LuzLezcano\Tp2\obj\Debug\net10.0\ref\Tp2.dll
+C:\Users\sylvi\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67119-LuzLezcano\Tp2\obj\Debug\net10.0\Tp2.csproj.Up2Date

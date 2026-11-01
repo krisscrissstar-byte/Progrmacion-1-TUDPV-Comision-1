@@ -1,0 +1,15 @@
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ10-Resuelto\EJ10-Resuelto\bin\Debug\net8.0\EJ10-Resuelto.exe
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ10-Resuelto\EJ10-Resuelto\bin\Debug\net8.0\EJ10-Resuelto.deps.json
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ10-Resuelto\EJ10-Resuelto\bin\Debug\net8.0\EJ10-Resuelto.runtimeconfig.json
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ10-Resuelto\EJ10-Resuelto\bin\Debug\net8.0\EJ10-Resuelto.dll
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ10-Resuelto\EJ10-Resuelto\bin\Debug\net8.0\EJ10-Resuelto.pdb
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ10-Resuelto\EJ10-Resuelto\obj\Debug\net8.0\EJ10-Resuelto.GeneratedMSBuildEditorConfig.editorconfig
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ10-Resuelto\EJ10-Resuelto\obj\Debug\net8.0\EJ10-Resuelto.AssemblyInfoInputs.cache
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ10-Resuelto\EJ10-Resuelto\obj\Debug\net8.0\EJ10-Resuelto.AssemblyInfo.cs
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ10-Resuelto\EJ10-Resuelto\obj\Debug\net8.0\EJ10-Resuelto.csproj.CoreCompileInputs.cache
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ10-Resuelto\EJ10-Resuelto\obj\Debug\net8.0\EJ10-Resuelto.sourcelink.json
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ10-Resuelto\EJ10-Resuelto\obj\Debug\net8.0\EJ10-Resuelto.dll
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ10-Resuelto\EJ10-Resuelto\obj\Debug\net8.0\refint\EJ10-Resuelto.dll
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ10-Resuelto\EJ10-Resuelto\obj\Debug\net8.0\EJ10-Resuelto.pdb
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ10-Resuelto\EJ10-Resuelto\obj\Debug\net8.0\EJ10-Resuelto.genruntimeconfig.cache
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ10-Resuelto\EJ10-Resuelto\obj\Debug\net8.0\ref\EJ10-Resuelto.dll

@@ -1,0 +1,15 @@
+C:\Users\vivis\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67036-GenaroVarela\bin\Debug\net10.0\67036-GenaroVarela.exe
+C:\Users\vivis\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67036-GenaroVarela\bin\Debug\net10.0\67036-GenaroVarela.deps.json
+C:\Users\vivis\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67036-GenaroVarela\bin\Debug\net10.0\67036-GenaroVarela.runtimeconfig.json
+C:\Users\vivis\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67036-GenaroVarela\bin\Debug\net10.0\67036-GenaroVarela.dll
+C:\Users\vivis\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67036-GenaroVarela\bin\Debug\net10.0\67036-GenaroVarela.pdb
+C:\Users\vivis\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67036-GenaroVarela\obj\Debug\net10.0\67036-GenaroVarela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivis\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67036-GenaroVarela\obj\Debug\net10.0\67036-GenaroVarela.AssemblyInfoInputs.cache
+C:\Users\vivis\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67036-GenaroVarela\obj\Debug\net10.0\67036-GenaroVarela.AssemblyInfo.cs
+C:\Users\vivis\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67036-GenaroVarela\obj\Debug\net10.0\67036-GenaroVarela.csproj.CoreCompileInputs.cache
+C:\Users\vivis\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67036-GenaroVarela\obj\Debug\net10.0\67036-GenaroVarela.sourcelink.json
+C:\Users\vivis\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67036-GenaroVarela\obj\Debug\net10.0\67036-GenaroVarela.dll
+C:\Users\vivis\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67036-GenaroVarela\obj\Debug\net10.0\refint\67036-GenaroVarela.dll
+C:\Users\vivis\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67036-GenaroVarela\obj\Debug\net10.0\67036-GenaroVarela.pdb
+C:\Users\vivis\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67036-GenaroVarela\obj\Debug\net10.0\67036-GenaroVarela.genruntimeconfig.cache
+C:\Users\vivis\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67036-GenaroVarela\obj\Debug\net10.0\ref\67036-GenaroVarela.dll

@@ -1,0 +1,15 @@
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 10\Ejercicio 10\bin\Debug\net8.0\Ejercicio 10.exe
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 10\Ejercicio 10\bin\Debug\net8.0\Ejercicio 10.deps.json
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 10\Ejercicio 10\bin\Debug\net8.0\Ejercicio 10.runtimeconfig.json
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 10\Ejercicio 10\bin\Debug\net8.0\Ejercicio 10.dll
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 10\Ejercicio 10\bin\Debug\net8.0\Ejercicio 10.pdb
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 10\Ejercicio 10\obj\Debug\net8.0\Ejercicio 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 10\Ejercicio 10\obj\Debug\net8.0\Ejercicio 10.AssemblyInfoInputs.cache
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 10\Ejercicio 10\obj\Debug\net8.0\Ejercicio 10.AssemblyInfo.cs
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 10\Ejercicio 10\obj\Debug\net8.0\Ejercicio 10.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 10\Ejercicio 10\obj\Debug\net8.0\Ejercicio 10.sourcelink.json
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 10\Ejercicio 10\obj\Debug\net8.0\Ejercicio 10.dll
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 10\Ejercicio 10\obj\Debug\net8.0\refint\Ejercicio 10.dll
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 10\Ejercicio 10\obj\Debug\net8.0\Ejercicio 10.pdb
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 10\Ejercicio 10\obj\Debug\net8.0\Ejercicio 10.genruntimeconfig.cache
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 10\Ejercicio 10\obj\Debug\net8.0\ref\Ejercicio 10.dll

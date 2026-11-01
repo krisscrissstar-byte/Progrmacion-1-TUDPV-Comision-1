@@ -1,0 +1,7 @@
+C:\Users\matias\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\dev-MatiasBezdjianBumbacher-67068\TP 2 Integrador\TP 2 Integrador\bin\Debug\TP 2 Integrador.exe.config
+C:\Users\matias\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\dev-MatiasBezdjianBumbacher-67068\TP 2 Integrador\TP 2 Integrador\bin\Debug\TP 2 Integrador.exe
+C:\Users\matias\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\dev-MatiasBezdjianBumbacher-67068\TP 2 Integrador\TP 2 Integrador\bin\Debug\TP 2 Integrador.pdb
+C:\Users\matias\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\dev-MatiasBezdjianBumbacher-67068\TP 2 Integrador\TP 2 Integrador\obj\Debug\TP 2 Integrador.csproj.AssemblyReference.cache
+C:\Users\matias\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\dev-MatiasBezdjianBumbacher-67068\TP 2 Integrador\TP 2 Integrador\obj\Debug\TP 2 Integrador.csproj.CoreCompileInputs.cache
+C:\Users\matias\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\dev-MatiasBezdjianBumbacher-67068\TP 2 Integrador\TP 2 Integrador\obj\Debug\TP 2 Integrador.exe
+C:\Users\matias\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\dev-MatiasBezdjianBumbacher-67068\TP 2 Integrador\TP 2 Integrador\obj\Debug\TP 2 Integrador.pdb

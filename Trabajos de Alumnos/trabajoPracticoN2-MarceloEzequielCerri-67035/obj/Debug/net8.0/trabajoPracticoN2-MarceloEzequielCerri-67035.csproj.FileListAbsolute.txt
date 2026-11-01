@@ -1,0 +1,14 @@
+C:\Users\MARCELO\Desktop\visual studio codigo\trabajoPracticoN2-MarceloEzequielCerri-67035\bin\Debug\net8.0\trabajoPracticoN2-MarceloEzequielCerri-67035.exe
+C:\Users\MARCELO\Desktop\visual studio codigo\trabajoPracticoN2-MarceloEzequielCerri-67035\bin\Debug\net8.0\trabajoPracticoN2-MarceloEzequielCerri-67035.deps.json
+C:\Users\MARCELO\Desktop\visual studio codigo\trabajoPracticoN2-MarceloEzequielCerri-67035\bin\Debug\net8.0\trabajoPracticoN2-MarceloEzequielCerri-67035.runtimeconfig.json
+C:\Users\MARCELO\Desktop\visual studio codigo\trabajoPracticoN2-MarceloEzequielCerri-67035\bin\Debug\net8.0\trabajoPracticoN2-MarceloEzequielCerri-67035.dll
+C:\Users\MARCELO\Desktop\visual studio codigo\trabajoPracticoN2-MarceloEzequielCerri-67035\bin\Debug\net8.0\trabajoPracticoN2-MarceloEzequielCerri-67035.pdb
+C:\Users\MARCELO\Desktop\visual studio codigo\trabajoPracticoN2-MarceloEzequielCerri-67035\obj\Debug\net8.0\trabajoPracticoN2-MarceloEzequielCerri-67035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCELO\Desktop\visual studio codigo\trabajoPracticoN2-MarceloEzequielCerri-67035\obj\Debug\net8.0\trabajoPracticoN2-MarceloEzequielCerri-67035.AssemblyInfoInputs.cache
+C:\Users\MARCELO\Desktop\visual studio codigo\trabajoPracticoN2-MarceloEzequielCerri-67035\obj\Debug\net8.0\trabajoPracticoN2-MarceloEzequielCerri-67035.AssemblyInfo.cs
+C:\Users\MARCELO\Desktop\visual studio codigo\trabajoPracticoN2-MarceloEzequielCerri-67035\obj\Debug\net8.0\trabajoPracticoN2-MarceloEzequielCerri-67035.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Desktop\visual studio codigo\trabajoPracticoN2-MarceloEzequielCerri-67035\obj\Debug\net8.0\trabajoPracticoN2-MarceloEzequielCerri-67035.dll
+C:\Users\MARCELO\Desktop\visual studio codigo\trabajoPracticoN2-MarceloEzequielCerri-67035\obj\Debug\net8.0\refint\trabajoPracticoN2-MarceloEzequielCerri-67035.dll
+C:\Users\MARCELO\Desktop\visual studio codigo\trabajoPracticoN2-MarceloEzequielCerri-67035\obj\Debug\net8.0\trabajoPracticoN2-MarceloEzequielCerri-67035.pdb
+C:\Users\MARCELO\Desktop\visual studio codigo\trabajoPracticoN2-MarceloEzequielCerri-67035\obj\Debug\net8.0\trabajoPracticoN2-MarceloEzequielCerri-67035.genruntimeconfig.cache
+C:\Users\MARCELO\Desktop\visual studio codigo\trabajoPracticoN2-MarceloEzequielCerri-67035\obj\Debug\net8.0\ref\trabajoPracticoN2-MarceloEzequielCerri-67035.dll

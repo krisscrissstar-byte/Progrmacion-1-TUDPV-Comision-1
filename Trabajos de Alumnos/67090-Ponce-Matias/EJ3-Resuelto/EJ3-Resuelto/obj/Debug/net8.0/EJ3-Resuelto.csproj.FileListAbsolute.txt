@@ -1,0 +1,15 @@
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ3-Resuelto\EJ3-Resuelto\bin\Debug\net8.0\EJ3-Resuelto.exe
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ3-Resuelto\EJ3-Resuelto\bin\Debug\net8.0\EJ3-Resuelto.deps.json
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ3-Resuelto\EJ3-Resuelto\bin\Debug\net8.0\EJ3-Resuelto.runtimeconfig.json
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ3-Resuelto\EJ3-Resuelto\bin\Debug\net8.0\EJ3-Resuelto.dll
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ3-Resuelto\EJ3-Resuelto\bin\Debug\net8.0\EJ3-Resuelto.pdb
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ3-Resuelto\EJ3-Resuelto\obj\Debug\net8.0\EJ3-Resuelto.GeneratedMSBuildEditorConfig.editorconfig
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ3-Resuelto\EJ3-Resuelto\obj\Debug\net8.0\EJ3-Resuelto.AssemblyInfoInputs.cache
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ3-Resuelto\EJ3-Resuelto\obj\Debug\net8.0\EJ3-Resuelto.AssemblyInfo.cs
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ3-Resuelto\EJ3-Resuelto\obj\Debug\net8.0\EJ3-Resuelto.csproj.CoreCompileInputs.cache
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ3-Resuelto\EJ3-Resuelto\obj\Debug\net8.0\EJ3-Resuelto.sourcelink.json
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ3-Resuelto\EJ3-Resuelto\obj\Debug\net8.0\EJ3-Resuelto.dll
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ3-Resuelto\EJ3-Resuelto\obj\Debug\net8.0\refint\EJ3-Resuelto.dll
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ3-Resuelto\EJ3-Resuelto\obj\Debug\net8.0\EJ3-Resuelto.pdb
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ3-Resuelto\EJ3-Resuelto\obj\Debug\net8.0\EJ3-Resuelto.genruntimeconfig.cache
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ3-Resuelto\EJ3-Resuelto\obj\Debug\net8.0\ref\EJ3-Resuelto.dll

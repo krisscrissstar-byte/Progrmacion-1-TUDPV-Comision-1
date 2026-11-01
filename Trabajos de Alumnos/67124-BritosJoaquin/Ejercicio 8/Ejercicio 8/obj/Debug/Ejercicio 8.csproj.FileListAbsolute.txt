@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67124-BritosJoaquin\Ejercicio 8\Ejercicio 8\bin\Debug\Ejercicio 8.exe.config
+C:\Users\Usuario\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67124-BritosJoaquin\Ejercicio 8\Ejercicio 8\bin\Debug\Ejercicio 8.exe
+C:\Users\Usuario\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67124-BritosJoaquin\Ejercicio 8\Ejercicio 8\bin\Debug\Ejercicio 8.pdb
+C:\Users\Usuario\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67124-BritosJoaquin\Ejercicio 8\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67124-BritosJoaquin\Ejercicio 8\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67124-BritosJoaquin\Ejercicio 8\Ejercicio 8\obj\Debug\Ejercicio 8.exe
+C:\Users\Usuario\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67124-BritosJoaquin\Ejercicio 8\Ejercicio 8\obj\Debug\Ejercicio 8.pdb

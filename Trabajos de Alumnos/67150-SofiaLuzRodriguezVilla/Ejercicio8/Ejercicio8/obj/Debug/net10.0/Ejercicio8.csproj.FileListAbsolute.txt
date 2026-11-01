@@ -1,0 +1,16 @@
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio8\Ejercicio8\bin\Debug\net10.0\Ejercicio8.exe
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio8\Ejercicio8\bin\Debug\net10.0\Ejercicio8.deps.json
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio8\Ejercicio8\bin\Debug\net10.0\Ejercicio8.runtimeconfig.json
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio8\Ejercicio8\bin\Debug\net10.0\Ejercicio8.dll
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio8\Ejercicio8\bin\Debug\net10.0\Ejercicio8.pdb
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio8\Ejercicio8\obj\Debug\net10.0\Ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio8\Ejercicio8\obj\Debug\net10.0\Ejercicio8.AssemblyInfoInputs.cache
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio8\Ejercicio8\obj\Debug\net10.0\Ejercicio8.AssemblyInfo.cs
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio8\Ejercicio8\obj\Debug\net10.0\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio8\Ejercicio8\obj\Debug\net10.0\Ejercicio8.sourcelink.json
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio8\Ejercicio8\obj\Debug\net10.0\Ejercicio8.dll
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio8\Ejercicio8\obj\Debug\net10.0\refint\Ejercicio8.dll
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio8\Ejercicio8\obj\Debug\net10.0\Ejercicio8.pdb
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio8\Ejercicio8\obj\Debug\net10.0\Ejercicio8.genruntimeconfig.cache
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio8\Ejercicio8\obj\Debug\net10.0\ref\Ejercicio8.dll
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio8\Ejercicio8\obj\Debug\net10.0\Ejercicio8.csproj.Up2Date

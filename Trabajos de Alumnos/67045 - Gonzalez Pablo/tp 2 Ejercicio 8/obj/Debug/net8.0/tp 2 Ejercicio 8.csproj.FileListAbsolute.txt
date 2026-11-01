@@ -1,0 +1,15 @@
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\tp 2 Ejercicio 8\bin\Debug\net8.0\tp 2 Ejercicio 8.exe
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\tp 2 Ejercicio 8\bin\Debug\net8.0\tp 2 Ejercicio 8.deps.json
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\tp 2 Ejercicio 8\bin\Debug\net8.0\tp 2 Ejercicio 8.runtimeconfig.json
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\tp 2 Ejercicio 8\bin\Debug\net8.0\tp 2 Ejercicio 8.dll
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\tp 2 Ejercicio 8\bin\Debug\net8.0\tp 2 Ejercicio 8.pdb
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\tp 2 Ejercicio 8\obj\Debug\net8.0\tp 2 Ejercicio 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\tp 2 Ejercicio 8\obj\Debug\net8.0\tp 2 Ejercicio 8.AssemblyInfoInputs.cache
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\tp 2 Ejercicio 8\obj\Debug\net8.0\tp 2 Ejercicio 8.AssemblyInfo.cs
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\tp 2 Ejercicio 8\obj\Debug\net8.0\tp 2 Ejercicio 8.csproj.CoreCompileInputs.cache
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\tp 2 Ejercicio 8\obj\Debug\net8.0\tp 2 Ejercicio 8.sourcelink.json
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\tp 2 Ejercicio 8\obj\Debug\net8.0\tp 2 Ejercicio 8.dll
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\tp 2 Ejercicio 8\obj\Debug\net8.0\refint\tp 2 Ejercicio 8.dll
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\tp 2 Ejercicio 8\obj\Debug\net8.0\tp 2 Ejercicio 8.pdb
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\tp 2 Ejercicio 8\obj\Debug\net8.0\tp 2 Ejercicio 8.genruntimeconfig.cache
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\tp 2 Ejercicio 8\obj\Debug\net8.0\ref\tp 2 Ejercicio 8.dll

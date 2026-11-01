@@ -1,0 +1,15 @@
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 6\Ejercicio 6\bin\Debug\net8.0\Ejercicio 6.exe
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 6\Ejercicio 6\bin\Debug\net8.0\Ejercicio 6.deps.json
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 6\Ejercicio 6\bin\Debug\net8.0\Ejercicio 6.runtimeconfig.json
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 6\Ejercicio 6\bin\Debug\net8.0\Ejercicio 6.dll
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 6\Ejercicio 6\bin\Debug\net8.0\Ejercicio 6.pdb
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 6\Ejercicio 6\obj\Debug\net8.0\Ejercicio 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 6\Ejercicio 6\obj\Debug\net8.0\Ejercicio 6.AssemblyInfoInputs.cache
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 6\Ejercicio 6\obj\Debug\net8.0\Ejercicio 6.AssemblyInfo.cs
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 6\Ejercicio 6\obj\Debug\net8.0\Ejercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 6\Ejercicio 6\obj\Debug\net8.0\Ejercicio 6.sourcelink.json
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 6\Ejercicio 6\obj\Debug\net8.0\Ejercicio 6.dll
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 6\Ejercicio 6\obj\Debug\net8.0\refint\Ejercicio 6.dll
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 6\Ejercicio 6\obj\Debug\net8.0\Ejercicio 6.pdb
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 6\Ejercicio 6\obj\Debug\net8.0\Ejercicio 6.genruntimeconfig.cache
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Ejercicio 6\Ejercicio 6\obj\Debug\net8.0\ref\Ejercicio 6.dll

@@ -1,0 +1,7 @@
+C:\Users\bedyv\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Valdez del Pino Tomas-67145\obj\Debug\Valdez del Pino Tomas-67145.csproj.AssemblyReference.cache
+C:\Users\bedyv\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Valdez del Pino Tomas-67145\obj\Debug\Valdez del Pino Tomas-67145.csproj.CoreCompileInputs.cache
+C:\Users\bedyv\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Valdez del Pino Tomas-67145\bin\Debug\Valdez del Pino Tomas-67145.exe.config
+C:\Users\bedyv\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Valdez del Pino Tomas-67145\bin\Debug\Valdez del Pino Tomas-67145.exe
+C:\Users\bedyv\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Valdez del Pino Tomas-67145\bin\Debug\Valdez del Pino Tomas-67145.pdb
+C:\Users\bedyv\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Valdez del Pino Tomas-67145\obj\Debug\Valdez del Pino Tomas-67145.exe
+C:\Users\bedyv\OneDrive\Documentos\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\Valdez del Pino Tomas-67145\obj\Debug\Valdez del Pino Tomas-67145.pdb

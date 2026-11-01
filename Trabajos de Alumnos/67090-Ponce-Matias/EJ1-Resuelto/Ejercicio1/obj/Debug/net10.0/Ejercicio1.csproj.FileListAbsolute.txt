@@ -1,0 +1,30 @@
+C:\Users\Mati\Desktop\-Programacion-TrabajoPracticoN2-Comision1\Ejercicio1\bin\Debug\net10.0\Ejercicio1.exe
+C:\Users\Mati\Desktop\-Programacion-TrabajoPracticoN2-Comision1\Ejercicio1\bin\Debug\net10.0\Ejercicio1.deps.json
+C:\Users\Mati\Desktop\-Programacion-TrabajoPracticoN2-Comision1\Ejercicio1\bin\Debug\net10.0\Ejercicio1.runtimeconfig.json
+C:\Users\Mati\Desktop\-Programacion-TrabajoPracticoN2-Comision1\Ejercicio1\bin\Debug\net10.0\Ejercicio1.dll
+C:\Users\Mati\Desktop\-Programacion-TrabajoPracticoN2-Comision1\Ejercicio1\bin\Debug\net10.0\Ejercicio1.pdb
+C:\Users\Mati\Desktop\-Programacion-TrabajoPracticoN2-Comision1\Ejercicio1\obj\Debug\net10.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mati\Desktop\-Programacion-TrabajoPracticoN2-Comision1\Ejercicio1\obj\Debug\net10.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Mati\Desktop\-Programacion-TrabajoPracticoN2-Comision1\Ejercicio1\obj\Debug\net10.0\Ejercicio1.AssemblyInfo.cs
+C:\Users\Mati\Desktop\-Programacion-TrabajoPracticoN2-Comision1\Ejercicio1\obj\Debug\net10.0\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Desktop\-Programacion-TrabajoPracticoN2-Comision1\Ejercicio1\obj\Debug\net10.0\Ejercicio1.dll
+C:\Users\Mati\Desktop\-Programacion-TrabajoPracticoN2-Comision1\Ejercicio1\obj\Debug\net10.0\refint\Ejercicio1.dll
+C:\Users\Mati\Desktop\-Programacion-TrabajoPracticoN2-Comision1\Ejercicio1\obj\Debug\net10.0\Ejercicio1.pdb
+C:\Users\Mati\Desktop\-Programacion-TrabajoPracticoN2-Comision1\Ejercicio1\obj\Debug\net10.0\Ejercicio1.genruntimeconfig.cache
+C:\Users\Mati\Desktop\-Programacion-TrabajoPracticoN2-Comision1\Ejercicio1\obj\Debug\net10.0\ref\Ejercicio1.dll
+C:\Users\Mati\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ1-Resuelto\Ejercicio1\bin\Debug\net10.0\Ejercicio1.exe
+C:\Users\Mati\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ1-Resuelto\Ejercicio1\bin\Debug\net10.0\Ejercicio1.deps.json
+C:\Users\Mati\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ1-Resuelto\Ejercicio1\bin\Debug\net10.0\Ejercicio1.runtimeconfig.json
+C:\Users\Mati\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ1-Resuelto\Ejercicio1\bin\Debug\net10.0\Ejercicio1.dll
+C:\Users\Mati\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ1-Resuelto\Ejercicio1\bin\Debug\net10.0\Ejercicio1.pdb
+C:\Users\Mati\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ1-Resuelto\Ejercicio1\obj\Debug\net10.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mati\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ1-Resuelto\Ejercicio1\obj\Debug\net10.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Mati\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ1-Resuelto\Ejercicio1\obj\Debug\net10.0\Ejercicio1.AssemblyInfo.cs
+C:\Users\Mati\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ1-Resuelto\Ejercicio1\obj\Debug\net10.0\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Mati\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ1-Resuelto\Ejercicio1\obj\Debug\net10.0\Ejercicio1.sourcelink.json
+C:\Users\Mati\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ1-Resuelto\Ejercicio1\obj\Debug\net10.0\Ejercicio1.dll
+C:\Users\Mati\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ1-Resuelto\Ejercicio1\obj\Debug\net10.0\refint\Ejercicio1.dll
+C:\Users\Mati\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ1-Resuelto\Ejercicio1\obj\Debug\net10.0\Ejercicio1.pdb
+C:\Users\Mati\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ1-Resuelto\Ejercicio1\obj\Debug\net10.0\Ejercicio1.genruntimeconfig.cache
+C:\Users\Mati\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ1-Resuelto\Ejercicio1\obj\Debug\net10.0\ref\Ejercicio1.dll
+C:\Users\Mati\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ1-Resuelto\Ejercicio1\obj\Debug\net10.0\Ejercicio1.csproj.Up2Date

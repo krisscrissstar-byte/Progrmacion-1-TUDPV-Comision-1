@@ -1,0 +1,15 @@
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ8-Resuelto\ej8\bin\Debug\net8.0\ej8.exe
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ8-Resuelto\ej8\bin\Debug\net8.0\ej8.deps.json
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ8-Resuelto\ej8\bin\Debug\net8.0\ej8.runtimeconfig.json
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ8-Resuelto\ej8\bin\Debug\net8.0\ej8.dll
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ8-Resuelto\ej8\bin\Debug\net8.0\ej8.pdb
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ8-Resuelto\ej8\obj\Debug\net8.0\ej8.GeneratedMSBuildEditorConfig.editorconfig
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ8-Resuelto\ej8\obj\Debug\net8.0\ej8.AssemblyInfoInputs.cache
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ8-Resuelto\ej8\obj\Debug\net8.0\ej8.AssemblyInfo.cs
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ8-Resuelto\ej8\obj\Debug\net8.0\ej8.csproj.CoreCompileInputs.cache
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ8-Resuelto\ej8\obj\Debug\net8.0\ej8.sourcelink.json
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ8-Resuelto\ej8\obj\Debug\net8.0\ej8.dll
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ8-Resuelto\ej8\obj\Debug\net8.0\refint\ej8.dll
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ8-Resuelto\ej8\obj\Debug\net8.0\ej8.pdb
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ8-Resuelto\ej8\obj\Debug\net8.0\ej8.genruntimeconfig.cache
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ8-Resuelto\ej8\obj\Debug\net8.0\ref\ej8.dll

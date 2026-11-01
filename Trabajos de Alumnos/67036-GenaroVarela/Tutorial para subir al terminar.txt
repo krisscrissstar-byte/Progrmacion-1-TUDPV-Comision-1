@@ -1,0 +1,21 @@
+Haz esto cuando termines:
+en CMD y parado en tu carpeta 67036-GenaroVarela
+ejecuta: 
+
+git add .
+
+git commit -m "Trabajo Practico 2"
+
+git push -u origin HEAD
+
+---
+
+Explicación de que hace cada cosa: "git add ." añade los cambios realizados a git (actualiza el estado del proyecto local).
+"git commit -m" Commit sirve para registrar tus cambios, el "-m" es obligatorio y sirve para dejar un comentario así el profesor sabe qué está viendo.
+"git push origin main" Hace push; envía tus cambios a tu repositorio oficial.
+
+Luego en GitHub desktop o en GitHub web (navegador) tienes que hacer Pull Request para que el profesor suba tu trabajo practico a su repo y no repruebes la materia...
+Te aparece un boton verde para hacer el Pull, le das, ves que todo esté bien, y le das a Create Pull Request.
+
+Tenes que crear una branch cada vez que vayas a hacer un nuevo ejercicio:
+git switch -c NOMBRE_DE_LA_BRANCH

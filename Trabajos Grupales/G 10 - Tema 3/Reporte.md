@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reporte Técnico de Cátedra - Fase 2
 **Juego Asignado:** Pokémon  
 **Número de Grupo:** Grupo 10  
@@ -24,3 +25,28 @@
   3. Utilizar las teclas **WASD** o las **Flechas de Dirección** para mover al personaje mediante físicas controladas (`Rigidbody2D.velocity` en `FixedUpdate`).
   4. Desplazarse hacia la zona de pasto alto configurada con un `BoxCollider2D` en modo *Trigger*.
   5. Verificar en la **Consola** los mensajes de entrada/salida de la zona y el registro generado por la lógica pura de C# al evaluar la probabilidad matemática de aparición de un Pokémon salvaje.
+=======
+# Reporte Técnico de Cátedra - Fase 1
+**Juego Asignado:** [Nombre del Juego]  
+**Número de Grupo:** Grupo XX  
+
+## 1. Integrantes del Equipo
+* Apellido y Nombre 1 - Legajo XXXXX (Rol / Rama: dev-Nombre1Apellido1-Legajo)
+* Apellido y Nombre 2 - Legajo XXXXX (Rol / Rama: dev-Nombre2Apellido2-Legajo)
+* Apellido y Nombre 3 - Legajo XXXXX (Rol / Rama: dev-Nombre3Apellido3-Legajo)
+
+## 2. Diagnóstico y Arquitectura Inicial
+* Descripción general del modelado de clases diseñado por el equipo.
+
+## 3. Módulos y Clases Implementadas (Mínimo 4)
+* Clase Base: [Nombre] (Atributos protegidos, constructor y métodos virtuales).
+* Clase Derivada 1: [Nombre] (Herencia y métodos override).
+* Clase Derivada 2: [Nombre] (Herencia y métodos override).
+* Clase Gestora / Inventario: [Nombre] (Encapsulamiento y colección de objetos).
+
+## 4. Control de Errores y Validaciones
+* Explicación de qué valores inválidos fueron prevenidos mediante encapsulamiento (`private`, `get`/`set`).
+
+## 5. Guía de Ejecución en Consola
+* Instrucciones para que el docente ejecute el `Main()` y verifique el polimorfismo.
+>>>>>>> b522946e173735387b48d7ff8fe679d3ecd03afb
