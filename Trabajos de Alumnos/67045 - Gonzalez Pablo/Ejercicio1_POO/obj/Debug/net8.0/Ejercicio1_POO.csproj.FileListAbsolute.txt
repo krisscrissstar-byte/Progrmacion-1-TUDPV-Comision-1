@@ -1,0 +1,15 @@
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\Ejercicio1_POO\bin\Debug\net8.0\Ejercicio1_POO.exe
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\Ejercicio1_POO\bin\Debug\net8.0\Ejercicio1_POO.deps.json
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\Ejercicio1_POO\bin\Debug\net8.0\Ejercicio1_POO.runtimeconfig.json
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\Ejercicio1_POO\bin\Debug\net8.0\Ejercicio1_POO.dll
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\Ejercicio1_POO\bin\Debug\net8.0\Ejercicio1_POO.pdb
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\Ejercicio1_POO\obj\Debug\net8.0\Ejercicio1_POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\Ejercicio1_POO\obj\Debug\net8.0\Ejercicio1_POO.AssemblyInfoInputs.cache
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\Ejercicio1_POO\obj\Debug\net8.0\Ejercicio1_POO.AssemblyInfo.cs
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\Ejercicio1_POO\obj\Debug\net8.0\Ejercicio1_POO.csproj.CoreCompileInputs.cache
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\Ejercicio1_POO\obj\Debug\net8.0\Ejercicio1_POO.sourcelink.json
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\Ejercicio1_POO\obj\Debug\net8.0\Ejercicio1_POO.dll
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\Ejercicio1_POO\obj\Debug\net8.0\refint\Ejercicio1_POO.dll
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\Ejercicio1_POO\obj\Debug\net8.0\Ejercicio1_POO.pdb
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\Ejercicio1_POO\obj\Debug\net8.0\Ejercicio1_POO.genruntimeconfig.cache
+D:\Tecnicatura en Videojuegos\Github\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67045 - Gonzalez Pablo\Ejercicio1_POO\obj\Debug\net8.0\ref\Ejercicio1_POO.dll

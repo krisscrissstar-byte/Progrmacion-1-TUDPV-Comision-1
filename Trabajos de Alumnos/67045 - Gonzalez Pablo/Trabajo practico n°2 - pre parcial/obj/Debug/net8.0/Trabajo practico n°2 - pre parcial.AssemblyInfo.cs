@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trabajo practico n°2 - pre parcial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f5450e5e1af57aa8cdb16dfa377f9b6294039f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e0f98d12755d035804fecd27eb68c2cc5330219")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trabajo practico n°2 - pre parcial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trabajo practico n°2 - pre parcial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
