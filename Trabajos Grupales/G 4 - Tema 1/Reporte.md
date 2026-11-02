@@ -3,7 +3,7 @@
 **Número de Grupo:** Grupo XX  
 
 ## 1. Integrantes del Equipo
-* Apellido y Nombre 1 - Legajo XXXXX (Rol / Rama: dev-Nombre1Apellido1-Legajo)
+* Rahman Rintoul Ramiro - Legajo 67050 (Rol Programador y todo lo demas / Rama: dev-RamiroRahmanRintoul-67050)
 * Apellido y Nombre 2 - Legajo XXXXX (Rol / Rama: dev-Nombre2Apellido2-Legajo)
 * Apellido y Nombre 3 - Legajo XXXXX (Rol / Rama: dev-Nombre3Apellido3-Legajo)
 
