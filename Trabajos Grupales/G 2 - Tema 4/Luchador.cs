@@ -1,7 +1,8 @@
 
 using System;
+using UnityEngine;
 
-public class Luchador
+public class Luchador : MonoBehaviour
 {
     // Atributos
     protected string nombre;
