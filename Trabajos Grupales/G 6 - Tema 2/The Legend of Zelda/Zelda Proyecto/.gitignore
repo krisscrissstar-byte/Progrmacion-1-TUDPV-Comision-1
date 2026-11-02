@@ -1,0 +1,39 @@
+# --- Carpetas temporales y de caché de Unity ---
+/[Aa]sset/[Ll]ibrary/
+/[Ll]ibrary/
+/[Ex]ported[Pp]roject/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Tt]emp/
+/[Vv]R/
+/[Vv]ideo/
+/[Uu]serSettings/
+
+# --- Archivos temporales generados por Unity ---
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# --- Carpetas de Visual Studio y Compilación ---
+.vs/
+[Bb]in/
+[Oo]bj/
+AppPackages/
+BundleArtifacts/
+
+# --- Archivos del sistema ---
+.DS_Store
+Thumbs.db
