@@ -1,32 +1,48 @@
-g# Reporte Técnico de Cátedra - Fase 1
-**Juego Asignado:** DarkSouls  
-**Número de Grupo:** Grupo 07  
+# Reporte Técnico - Fase 2
 
-## 1. Integrantes del Equipo
-* Andújar Tomás Mateo - Legajo 67146 Líder / Rama: dev-TomasAndujar-67146
-* Martinez Maira - Legajo 67144 Integrante / Rama: DEV-MartinezMaira-67144
-* Enrico Duran - Legajo 67120 Integrante / Rama: dev-EnricoDuran-67120
-* Silva Teseira Ricardo - Legajo 67067 Integrante / Rama: Dev-SilvaTeseiraRicardo-67067
-* Bezdjian Bumbacher Matias - Legajo 67068 Integrante / Rama: dev-MatiasBezdjianBumbacher-67068
 
-## 2. Diagnóstico y Arquitectura Inicial
-* Se creó la arquitectura basada en el sistema de combate de Dark Souls. 
-* Se definió una clase base abstracta `GuerreroHueco` para abstraer los componentes comunes de las entidades que combaten (salud y consumo de stamina).
-* A partir de allí, se derivaron tipos de luchadores especializados en agilidad o defensa mediante herencia y polimorfismo.
+Grupo 1
+Proyecto heredado: Grupo 07 - Dark Souls
 
-## 3. Módulos y Clases Implementadas (Mínimo 4)
-1. **`GuerreroHueco.cs`**: Implementa la estructura base con atributos protegidos, encapsulamiento y método abstracto de esquiva.
-2. **`CaballeroNegro.cs`**: Subclase orientada a tanques con alto costo de esquiva (40 stamina).
-3. **`AsesinoSombra.cs`**: Subclase orientada a agilidad con bajo costo de esquiva (15 stamina).
-4. **`Hoguera.cs`**: Modulo gestor que restablece el estado de las entidades.
-5. **`Program.cs`**: Punto de entrada con recorrido polimórfico sobre un array de guerreros.
+## 1. Integrantes
 
-## 4. Control de Errores y Validaciones
-**Encapsulamiento de Atributos:** Se utilizaron modificadores `protected` y propiedades C# con validación para evitar que la salud o la stamina adquieran valores negativos en cálculos de daño o desgaste.
-**Control de Stamina:** Se validó que ningún personaje ejecute ataques ni esquivas si la stamina es menor al costo de la acción.
+Joaquin Britos 
+Sofia Carrizo
+Luciano Rossini
 
-## 5. Guía de Ejecución en Consola
-1. Abrir la carpeta `G 7 - Tema 7` (o hacer doble clic en el archivo `.csproj`) en **Visual Studio**.
-2. Ejecutar el proyecto presionando `F5` o el botón **Iniciar**.
-3. Observar la consola: se creará un array polimórfico con un `CaballeroNegro` y un `AsesinoSombra`, ejecutando cada uno sus versiones especializadas de `Esquivar()` y `Atacar()`.
-4. Verificar la ejecución del restablecimiento de estado al interactuar con la `Hoguera`.
+## 2. Diagnóstico del proyecto heredado
+
+El código estaba ordenado y la herencia entre `GuerreroHueco`, `CaballeroNegro` y `AsesinoSombra` estaba bien armada. Compilaba, pero tenía varios problemas para pasarlo a Unity:
+
+* Las propiedades de `Salud` y `Stamina` validaban valores negativos, pero el resto del código usaba los campos directamente, así que la validación casi no se usaba.
+* No había ningún método para recibir daño.
+* La hoguera recibía la salud y stamina máximas por parámetro en vez de que las tenga cada personaje.
+* El modelo imprimía por consola y `Atacar()`/`Esquivar()` no devolvían si la acción funcionó.
+* Faltaban `using System;`, el archivo `Hogera.cs` tenía un typo, `AsesinoSombra.cs` tenía mal el encoding y el `Reporte.md` tenía una `g` al principio.
+
+## 3. Refactorizaciones y arreglos
+
+* Salud y stamina ahora solo se modifican por sus propiedades, limitadas entre 0 y el máximo.
+* Agregamos `RecibirDanio()`, `EstaVivo` e `Invulnerable` (para el rodaje).
+* Agregamos `ConsumirStamina()` para no repetir el chequeo en cada clase. Las subclases solo definen `CostoEsquivar`.
+* `Atacar()` y `Esquivar()` devuelven `bool`.
+* `Hoguera.Descansar()` usa `Restablecer()` con los máximos del propio personaje.
+* Sacamos los `Console.WriteLine` del modelo; ahora solo imprime `Program.cs`.
+* Corregimos el nombre de `Hoguera.cs`, el encoding, los `using` y el encabezado de este reporte.
+
+## 4. Integración C# con Unity
+
+Las clases de lógica siguen siendo C# puro, sin `MonoBehaviour`. Los scripts de Unity solo leen el input, mueven el `Rigidbody2D` y le consultan o actualizan los datos al modelo:
+
+* `JugadorStats`: crea el modelo y lo comparte con los demás scripts.
+* `JugadorMovimiento`: input en `Update`, movimiento en `FixedUpdate`, y consulta la stamina antes de correr o saltar.
+* `DeteccionSuelo`: detecta el suelo para permitir el salto.
+* `JugadorRodaje`: impulso horizontal e invulnerabilidad temporal.
+* `HogueraTrigger`: al interactuar, restablece salud y stamina.
+
+## 5. Guía de prueba
+
+1. Abrir el proyecto en Unity y cargar la escena `NOMBRE_ESCENA`.
+2. Dar Play.
+3. Controles: **A/D** moverse, **Espacio** saltar, **Shift** rodar, **E** interactuar con la hoguera.
+4. Qué mirar: las acciones gastan stamina y no se hacen si no alcanza, al rodar no se recibe daño, y la hoguera restablece salud y stamina.
