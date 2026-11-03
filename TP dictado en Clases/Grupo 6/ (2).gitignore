@@ -1,0 +1,14 @@
+## Ignorar carpetas de Visual Studio en cualquier subproyecto
+**/.vs/
+**/[Bb]in/
+**/[Oo]bj/
+
+## Archivos de usuario y temporales
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Carpetas de paquetes y herramientas comunes
+**/packages/
+**/.paket/
