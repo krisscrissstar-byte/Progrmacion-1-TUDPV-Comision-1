@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacion_TUDPV_1\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\EjerciciosTP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8607C47-21C2-4B16-854C-F842FF276075}|Ejercicio010\\Ejercicio010.csproj|c:\\programacion_tudpv_1\\progrmacion-1-tudpv-comision-1\\trabajos de alumnos\\ejerciciostp\\ejercicio010\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8607C47-21C2-4B16-854C-F842FF276075}|Ejercicio010\\Ejercicio010.csproj|solutionrelative:ejercicio010\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CA6F48-5210-41E0-B43D-B851BE7FA0C9}|Ejercicio09\\Ejercicio09.csproj|c:\\programacion_tudpv_1\\progrmacion-1-tudpv-comision-1\\trabajos de alumnos\\ejerciciostp\\ejercicio09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CA6F48-5210-41E0-B43D-B851BE7FA0C9}|Ejercicio09\\Ejercicio09.csproj|solutionrelative:ejercicio09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacion_TUDPV_1\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\EjerciciosTP\\Ejercicio010\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio010\\Program.cs",
+              "ToolTip": "C:\\Programacion_TUDPV_1\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\EjerciciosTP\\Ejercicio010\\Program.cs*",
+              "RelativeToolTip": "Ejercicio010\\Program.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T19:28:44.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacion_TUDPV_1\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\EjerciciosTP\\Ejercicio09\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio09\\Program.cs",
+              "ToolTip": "C:\\Programacion_TUDPV_1\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\EjerciciosTP\\Ejercicio09\\Program.cs",
+              "RelativeToolTip": "Ejercicio09\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T17:42:20.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

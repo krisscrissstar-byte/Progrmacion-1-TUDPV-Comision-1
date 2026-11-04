@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebab\\Desktop\\Tecnicatura\\PROGRAMACION\\TRABAJOS PRACTICOS EN GIT\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\67117-Bejar-Sebastian\\Ejercicio4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{416C62C0-EDDF-4CED-91C0-BCDFE612DCEB}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\sebab\\desktop\\tecnicatura\\programacion\\trabajos practicos en git\\progrmacion-1-tudpv-comision-1\\trabajos de alumnos\\67117-bejar-sebastian\\ejercicio4\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416C62C0-EDDF-4CED-91C0-BCDFE612DCEB}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebab\\Desktop\\Tecnicatura\\PROGRAMACION\\TRABAJOS PRACTICOS EN GIT\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\67117-Bejar-Sebastian\\Ejercicio4\\Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\sebab\\Desktop\\Tecnicatura\\PROGRAMACION\\TRABAJOS PRACTICOS EN GIT\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\67117-Bejar-Sebastian\\Ejercicio4\\Ejercicio4\\Program.cs",
+              "RelativeToolTip": "Ejercicio4\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T16:08:00.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

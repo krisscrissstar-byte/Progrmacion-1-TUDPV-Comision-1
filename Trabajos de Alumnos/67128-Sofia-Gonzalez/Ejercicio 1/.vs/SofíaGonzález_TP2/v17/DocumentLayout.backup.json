@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Videos\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\Ejercicio 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3829703-2D79-41DA-82FF-DD275FB9E2C7}|Sof\u00EDaGonz\u00E1lez_TP2\\Ejercicio 1.csproj|c:\\users\\usuario\\videos\\progrmacion-1-tudpv-comision-1\\trabajos de alumnos\\ejercicio 1\\sof\u00EDagonz\u00E1lez_tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3829703-2D79-41DA-82FF-DD275FB9E2C7}|Sof\u00EDaGonz\u00E1lez_TP2\\Ejercicio 1.csproj|solutionrelative:sof\u00EDagonz\u00E1lez_tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Videos\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\Ejercicio 1\\Sof\u00EDaGonz\u00E1lez_TP2\\Program.cs",
+              "RelativeDocumentMoniker": "Sof\u00EDaGonz\u00E1lez_TP2\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Videos\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\Ejercicio 1\\Sof\u00EDaGonz\u00E1lez_TP2\\Program.cs",
+              "RelativeToolTip": "Sof\u00EDaGonz\u00E1lez_TP2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T20:03:43.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

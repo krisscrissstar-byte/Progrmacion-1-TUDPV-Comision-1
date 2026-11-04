@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\megat\\Documents\\GitHub\\Progrmacion-1-TUDPV-Comision-1\\TP dictado en Clases\\Jose-Tomas-Carbonel-Yalour-67086-comision-1\\poo1y2 ej2\\ejercicio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA3D0EA-C042-4860-9DDA-C6C411F2E884}|ejercicio2.csproj|c:\\users\\megat\\documents\\github\\progrmacion-1-tudpv-comision-1\\tp dictado en clases\\jose-tomas-carbonel-yalour-67086-comision-1\\poo1y2 ej2\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA3D0EA-C042-4860-9DDA-C6C411F2E884}|ejercicio2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\megat\\Documents\\GitHub\\Progrmacion-1-TUDPV-Comision-1\\TP dictado en Clases\\Jose-Tomas-Carbonel-Yalour-67086-comision-1\\poo1y2 ej2\\ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\megat\\Documents\\GitHub\\Progrmacion-1-TUDPV-Comision-1\\TP dictado en Clases\\Jose-Tomas-Carbonel-Yalour-67086-comision-1\\poo1y2 ej2\\ejercicio2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T16:24:16.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

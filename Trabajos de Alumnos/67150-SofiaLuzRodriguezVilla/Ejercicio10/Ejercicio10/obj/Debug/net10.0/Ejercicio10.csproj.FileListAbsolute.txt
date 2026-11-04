@@ -1,0 +1,16 @@
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio10\Ejercicio10\bin\Debug\net10.0\Ejercicio10.exe
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio10\Ejercicio10\bin\Debug\net10.0\Ejercicio10.deps.json
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio10\Ejercicio10\bin\Debug\net10.0\Ejercicio10.runtimeconfig.json
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio10\Ejercicio10\bin\Debug\net10.0\Ejercicio10.dll
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio10\Ejercicio10\bin\Debug\net10.0\Ejercicio10.pdb
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio10\Ejercicio10\obj\Debug\net10.0\Ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio10\Ejercicio10\obj\Debug\net10.0\Ejercicio10.AssemblyInfoInputs.cache
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio10\Ejercicio10\obj\Debug\net10.0\Ejercicio10.AssemblyInfo.cs
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio10\Ejercicio10\obj\Debug\net10.0\Ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio10\Ejercicio10\obj\Debug\net10.0\Ejercicio10.sourcelink.json
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio10\Ejercicio10\obj\Debug\net10.0\Ejercicio10.dll
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio10\Ejercicio10\obj\Debug\net10.0\refint\Ejercicio10.dll
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio10\Ejercicio10\obj\Debug\net10.0\Ejercicio10.pdb
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio10\Ejercicio10\obj\Debug\net10.0\Ejercicio10.genruntimeconfig.cache
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio10\Ejercicio10\obj\Debug\net10.0\ref\Ejercicio10.dll
+C:\Users\sofia\Documentos\Programacion\Programacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67150-SofiaLuzRodriguezVilla\Ejercicio10\Ejercicio10\obj\Debug\net10.0\Ejercici.309D3176.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\SofíaGonzález_TP2\SofíaGonzález_TP2\obj\Debug\net8.0\SofíaGonzález_TP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\SofíaGonzález_TP2\SofíaGonzález_TP2\obj\Debug\net8.0\SofíaGonzález_TP2.AssemblyInfoInputs.cache
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\SofíaGonzález_TP2\SofíaGonzález_TP2\obj\Debug\net8.0\SofíaGonzález_TP2.AssemblyInfo.cs
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\SofíaGonzález_TP2\SofíaGonzález_TP2\obj\Debug\net8.0\SofíaGonzález_TP2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\SofíaGonzález_TP2\SofíaGonzález_TP2\obj\Debug\net8.0\SofíaGonzález_TP2.sourcelink.json
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\SofíaGonzález_TP2\SofíaGonzález_TP2\bin\Debug\net8.0\SofíaGonzález_TP2.exe
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\SofíaGonzález_TP2\SofíaGonzález_TP2\bin\Debug\net8.0\SofíaGonzález_TP2.deps.json
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\SofíaGonzález_TP2\SofíaGonzález_TP2\bin\Debug\net8.0\SofíaGonzález_TP2.runtimeconfig.json
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\SofíaGonzález_TP2\SofíaGonzález_TP2\bin\Debug\net8.0\SofíaGonzález_TP2.dll
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\SofíaGonzález_TP2\SofíaGonzález_TP2\bin\Debug\net8.0\SofíaGonzález_TP2.pdb
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\SofíaGonzález_TP2\SofíaGonzález_TP2\obj\Debug\net8.0\SofíaGonzález_TP2.dll
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\SofíaGonzález_TP2\SofíaGonzález_TP2\obj\Debug\net8.0\refint\SofíaGonzález_TP2.dll
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\SofíaGonzález_TP2\SofíaGonzález_TP2\obj\Debug\net8.0\SofíaGonzález_TP2.pdb
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\SofíaGonzález_TP2\SofíaGonzález_TP2\obj\Debug\net8.0\SofíaGonzález_TP2.genruntimeconfig.cache
+C:\Users\Usuario\Videos\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\SofíaGonzález_TP2\SofíaGonzález_TP2\obj\Debug\net8.0\ref\SofíaGonzález_TP2.dll

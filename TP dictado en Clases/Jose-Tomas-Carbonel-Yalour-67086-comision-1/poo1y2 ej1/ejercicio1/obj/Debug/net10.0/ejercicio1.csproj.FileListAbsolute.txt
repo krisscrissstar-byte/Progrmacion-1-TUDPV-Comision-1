@@ -1,0 +1,16 @@
+C:\Users\megat\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\TP dictado en Clases\Jose-Tomas-Carbonel-Yalour-67086-comision-1\poo1y2 ej1\ejercicio1\bin\Debug\net10.0\ejercicio1.exe
+C:\Users\megat\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\TP dictado en Clases\Jose-Tomas-Carbonel-Yalour-67086-comision-1\poo1y2 ej1\ejercicio1\bin\Debug\net10.0\ejercicio1.deps.json
+C:\Users\megat\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\TP dictado en Clases\Jose-Tomas-Carbonel-Yalour-67086-comision-1\poo1y2 ej1\ejercicio1\bin\Debug\net10.0\ejercicio1.runtimeconfig.json
+C:\Users\megat\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\TP dictado en Clases\Jose-Tomas-Carbonel-Yalour-67086-comision-1\poo1y2 ej1\ejercicio1\bin\Debug\net10.0\ejercicio1.dll
+C:\Users\megat\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\TP dictado en Clases\Jose-Tomas-Carbonel-Yalour-67086-comision-1\poo1y2 ej1\ejercicio1\bin\Debug\net10.0\ejercicio1.pdb
+C:\Users\megat\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\TP dictado en Clases\Jose-Tomas-Carbonel-Yalour-67086-comision-1\poo1y2 ej1\ejercicio1\obj\Debug\net10.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megat\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\TP dictado en Clases\Jose-Tomas-Carbonel-Yalour-67086-comision-1\poo1y2 ej1\ejercicio1\obj\Debug\net10.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\megat\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\TP dictado en Clases\Jose-Tomas-Carbonel-Yalour-67086-comision-1\poo1y2 ej1\ejercicio1\obj\Debug\net10.0\ejercicio1.AssemblyInfo.cs
+C:\Users\megat\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\TP dictado en Clases\Jose-Tomas-Carbonel-Yalour-67086-comision-1\poo1y2 ej1\ejercicio1\obj\Debug\net10.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\megat\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\TP dictado en Clases\Jose-Tomas-Carbonel-Yalour-67086-comision-1\poo1y2 ej1\ejercicio1\obj\Debug\net10.0\ejercicio1.sourcelink.json
+C:\Users\megat\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\TP dictado en Clases\Jose-Tomas-Carbonel-Yalour-67086-comision-1\poo1y2 ej1\ejercicio1\obj\Debug\net10.0\ejercicio1.dll
+C:\Users\megat\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\TP dictado en Clases\Jose-Tomas-Carbonel-Yalour-67086-comision-1\poo1y2 ej1\ejercicio1\obj\Debug\net10.0\refint\ejercicio1.dll
+C:\Users\megat\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\TP dictado en Clases\Jose-Tomas-Carbonel-Yalour-67086-comision-1\poo1y2 ej1\ejercicio1\obj\Debug\net10.0\ejercicio1.pdb
+C:\Users\megat\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\TP dictado en Clases\Jose-Tomas-Carbonel-Yalour-67086-comision-1\poo1y2 ej1\ejercicio1\obj\Debug\net10.0\ejercicio1.genruntimeconfig.cache
+C:\Users\megat\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\TP dictado en Clases\Jose-Tomas-Carbonel-Yalour-67086-comision-1\poo1y2 ej1\ejercicio1\obj\Debug\net10.0\ref\ejercicio1.dll
+C:\Users\megat\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\TP dictado en Clases\Jose-Tomas-Carbonel-Yalour-67086-comision-1\poo1y2 ej1\ejercicio1\obj\Debug\net10.0\ejercicio1.csproj.Up2Date

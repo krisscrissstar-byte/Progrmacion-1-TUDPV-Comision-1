@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sofia\\Documentos\\Programacion\\Programacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\67150-SofiaLuzRodriguezVilla\\Ejercicio8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4850556-8E93-4CBD-A221-A2AC18A6933A}|Ejercicio8\\Ejercicio8.csproj|c:\\users\\sofia\\documentos\\programacion\\programacion-1-tudpv-comision-1\\trabajos de alumnos\\67150-sofialuzrodriguezvilla\\ejercicio8\\ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4850556-8E93-4CBD-A221-A2AC18A6933A}|Ejercicio8\\Ejercicio8.csproj|solutionrelative:ejercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sofia\\Documentos\\Programacion\\Programacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\67150-SofiaLuzRodriguezVilla\\Ejercicio8\\Ejercicio8\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio8\\Program.cs",
+              "ToolTip": "C:\\Users\\sofia\\Documentos\\Programacion\\Programacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\67150-SofiaLuzRodriguezVilla\\Ejercicio8\\Ejercicio8\\Program.cs",
+              "RelativeToolTip": "Ejercicio8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T06:38:54.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

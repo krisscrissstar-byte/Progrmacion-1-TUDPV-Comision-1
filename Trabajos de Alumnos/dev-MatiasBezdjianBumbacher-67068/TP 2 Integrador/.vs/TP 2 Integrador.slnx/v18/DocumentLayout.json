@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matias\\Documents\\GitHub\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\dev-MatiasBezdjianBumbacher-67068\\TP 2 Integrador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5768D289-9DDF-40A4-8BFE-58C2B4A0648E}|TP 2 Integrador\\TP 2 Integrador.csproj|c:\\users\\matias\\documents\\github\\progrmacion-1-tudpv-comision-1\\trabajos de alumnos\\dev-matiasbezdjianbumbacher-67068\\tp 2 integrador\\tp 2 integrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5768D289-9DDF-40A4-8BFE-58C2B4A0648E}|TP 2 Integrador\\TP 2 Integrador.csproj|solutionrelative:tp 2 integrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matias\\Documents\\GitHub\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\dev-MatiasBezdjianBumbacher-67068\\TP 2 Integrador\\TP 2 Integrador\\Program.cs",
+              "RelativeDocumentMoniker": "TP 2 Integrador\\Program.cs",
+              "ToolTip": "C:\\Users\\matias\\Documents\\GitHub\\Progrmacion-1-TUDPV-Comision-1\\Trabajos de Alumnos\\dev-MatiasBezdjianBumbacher-67068\\TP 2 Integrador\\TP 2 Integrador\\Program.cs",
+              "RelativeToolTip": "TP 2 Integrador\\Program.cs",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAQwG0BAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T01:35:52.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

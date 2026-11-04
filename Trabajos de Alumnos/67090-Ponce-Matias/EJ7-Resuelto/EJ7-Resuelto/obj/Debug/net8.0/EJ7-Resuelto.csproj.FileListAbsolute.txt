@@ -1,0 +1,15 @@
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ7-Resuelto\EJ7-Resuelto\bin\Debug\net8.0\EJ7-Resuelto.exe
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ7-Resuelto\EJ7-Resuelto\bin\Debug\net8.0\EJ7-Resuelto.deps.json
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ7-Resuelto\EJ7-Resuelto\bin\Debug\net8.0\EJ7-Resuelto.runtimeconfig.json
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ7-Resuelto\EJ7-Resuelto\bin\Debug\net8.0\EJ7-Resuelto.dll
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ7-Resuelto\EJ7-Resuelto\bin\Debug\net8.0\EJ7-Resuelto.pdb
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ7-Resuelto\EJ7-Resuelto\obj\Debug\net8.0\EJ7-Resuelto.GeneratedMSBuildEditorConfig.editorconfig
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ7-Resuelto\EJ7-Resuelto\obj\Debug\net8.0\EJ7-Resuelto.AssemblyInfoInputs.cache
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ7-Resuelto\EJ7-Resuelto\obj\Debug\net8.0\EJ7-Resuelto.AssemblyInfo.cs
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ7-Resuelto\EJ7-Resuelto\obj\Debug\net8.0\EJ7-Resuelto.csproj.CoreCompileInputs.cache
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ7-Resuelto\EJ7-Resuelto\obj\Debug\net8.0\EJ7-Resuelto.sourcelink.json
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ7-Resuelto\EJ7-Resuelto\obj\Debug\net8.0\EJ7-Resuelto.dll
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ7-Resuelto\EJ7-Resuelto\obj\Debug\net8.0\refint\EJ7-Resuelto.dll
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ7-Resuelto\EJ7-Resuelto\obj\Debug\net8.0\EJ7-Resuelto.pdb
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ7-Resuelto\EJ7-Resuelto\obj\Debug\net8.0\EJ7-Resuelto.genruntimeconfig.cache
+F:\games\PROJECT\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EJ7-Resuelto\EJ7-Resuelto\obj\Debug\net8.0\ref\EJ7-Resuelto.dll

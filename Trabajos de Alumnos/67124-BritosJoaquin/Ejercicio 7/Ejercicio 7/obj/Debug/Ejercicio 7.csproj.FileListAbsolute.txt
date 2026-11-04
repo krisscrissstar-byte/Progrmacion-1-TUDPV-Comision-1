@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67124-BritosJoaquin\Ejercicio 7\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67124-BritosJoaquin\Ejercicio 7\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67124-BritosJoaquin\Ejercicio 7\Ejercicio 7\bin\Debug\Ejercicio 7.exe.config
+C:\Users\Usuario\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67124-BritosJoaquin\Ejercicio 7\Ejercicio 7\bin\Debug\Ejercicio 7.exe
+C:\Users\Usuario\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67124-BritosJoaquin\Ejercicio 7\Ejercicio 7\bin\Debug\Ejercicio 7.pdb
+C:\Users\Usuario\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67124-BritosJoaquin\Ejercicio 7\Ejercicio 7\obj\Debug\Ejercicio 7.exe
+C:\Users\Usuario\Documents\GitHub\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67124-BritosJoaquin\Ejercicio 7\Ejercicio 7\obj\Debug\Ejercicio 7.pdb

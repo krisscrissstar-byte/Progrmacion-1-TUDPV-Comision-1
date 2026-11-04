@@ -1,0 +1,15 @@
+C:\Users\Matu2k5\Desktop\FAC\Program\TUDPV-1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67097-Gramajo-Matias\TP 1 TUDPV\bin\Debug\net10.0\TP 1 TUDPV.exe
+C:\Users\Matu2k5\Desktop\FAC\Program\TUDPV-1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67097-Gramajo-Matias\TP 1 TUDPV\bin\Debug\net10.0\TP 1 TUDPV.deps.json
+C:\Users\Matu2k5\Desktop\FAC\Program\TUDPV-1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67097-Gramajo-Matias\TP 1 TUDPV\bin\Debug\net10.0\TP 1 TUDPV.runtimeconfig.json
+C:\Users\Matu2k5\Desktop\FAC\Program\TUDPV-1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67097-Gramajo-Matias\TP 1 TUDPV\bin\Debug\net10.0\TP 1 TUDPV.dll
+C:\Users\Matu2k5\Desktop\FAC\Program\TUDPV-1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67097-Gramajo-Matias\TP 1 TUDPV\bin\Debug\net10.0\TP 1 TUDPV.pdb
+C:\Users\Matu2k5\Desktop\FAC\Program\TUDPV-1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67097-Gramajo-Matias\TP 1 TUDPV\obj\Debug\net10.0\TP 1 TUDPV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matu2k5\Desktop\FAC\Program\TUDPV-1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67097-Gramajo-Matias\TP 1 TUDPV\obj\Debug\net10.0\TP 1 TUDPV.AssemblyInfoInputs.cache
+C:\Users\Matu2k5\Desktop\FAC\Program\TUDPV-1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67097-Gramajo-Matias\TP 1 TUDPV\obj\Debug\net10.0\TP 1 TUDPV.AssemblyInfo.cs
+C:\Users\Matu2k5\Desktop\FAC\Program\TUDPV-1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67097-Gramajo-Matias\TP 1 TUDPV\obj\Debug\net10.0\TP 1 TUDPV.csproj.CoreCompileInputs.cache
+C:\Users\Matu2k5\Desktop\FAC\Program\TUDPV-1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67097-Gramajo-Matias\TP 1 TUDPV\obj\Debug\net10.0\TP 1 TUDPV.sourcelink.json
+C:\Users\Matu2k5\Desktop\FAC\Program\TUDPV-1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67097-Gramajo-Matias\TP 1 TUDPV\obj\Debug\net10.0\TP 1 TUDPV.dll
+C:\Users\Matu2k5\Desktop\FAC\Program\TUDPV-1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67097-Gramajo-Matias\TP 1 TUDPV\obj\Debug\net10.0\refint\TP 1 TUDPV.dll
+C:\Users\Matu2k5\Desktop\FAC\Program\TUDPV-1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67097-Gramajo-Matias\TP 1 TUDPV\obj\Debug\net10.0\TP 1 TUDPV.pdb
+C:\Users\Matu2k5\Desktop\FAC\Program\TUDPV-1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67097-Gramajo-Matias\TP 1 TUDPV\obj\Debug\net10.0\TP 1 TUDPV.genruntimeconfig.cache
+C:\Users\Matu2k5\Desktop\FAC\Program\TUDPV-1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67097-Gramajo-Matias\TP 1 TUDPV\obj\Debug\net10.0\ref\TP 1 TUDPV.dll

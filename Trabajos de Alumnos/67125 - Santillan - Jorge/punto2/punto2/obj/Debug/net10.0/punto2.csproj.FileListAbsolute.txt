@@ -1,0 +1,16 @@
+C:\Users\USUARIO\OneDrive\Desktop\Facu\programaciopn lol\Githubxd\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67125 - Santillan - Jorge\punto2\punto2\obj\Debug\net10.0\punto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Desktop\Facu\programaciopn lol\Githubxd\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67125 - Santillan - Jorge\punto2\punto2\obj\Debug\net10.0\punto2.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\Facu\programaciopn lol\Githubxd\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67125 - Santillan - Jorge\punto2\punto2\obj\Debug\net10.0\punto2.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Desktop\Facu\programaciopn lol\Githubxd\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67125 - Santillan - Jorge\punto2\punto2\obj\Debug\net10.0\punto2.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\Facu\programaciopn lol\Githubxd\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67125 - Santillan - Jorge\punto2\punto2\obj\Debug\net10.0\punto2.sourcelink.json
+C:\Users\USUARIO\OneDrive\Desktop\Facu\programaciopn lol\Githubxd\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67125 - Santillan - Jorge\punto2\punto2\bin\Debug\net10.0\punto2.exe
+C:\Users\USUARIO\OneDrive\Desktop\Facu\programaciopn lol\Githubxd\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67125 - Santillan - Jorge\punto2\punto2\bin\Debug\net10.0\punto2.deps.json
+C:\Users\USUARIO\OneDrive\Desktop\Facu\programaciopn lol\Githubxd\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67125 - Santillan - Jorge\punto2\punto2\bin\Debug\net10.0\punto2.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Desktop\Facu\programaciopn lol\Githubxd\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67125 - Santillan - Jorge\punto2\punto2\bin\Debug\net10.0\punto2.dll
+C:\Users\USUARIO\OneDrive\Desktop\Facu\programaciopn lol\Githubxd\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67125 - Santillan - Jorge\punto2\punto2\bin\Debug\net10.0\punto2.pdb
+C:\Users\USUARIO\OneDrive\Desktop\Facu\programaciopn lol\Githubxd\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67125 - Santillan - Jorge\punto2\punto2\obj\Debug\net10.0\punto2.dll
+C:\Users\USUARIO\OneDrive\Desktop\Facu\programaciopn lol\Githubxd\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67125 - Santillan - Jorge\punto2\punto2\obj\Debug\net10.0\refint\punto2.dll
+C:\Users\USUARIO\OneDrive\Desktop\Facu\programaciopn lol\Githubxd\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67125 - Santillan - Jorge\punto2\punto2\obj\Debug\net10.0\punto2.pdb
+C:\Users\USUARIO\OneDrive\Desktop\Facu\programaciopn lol\Githubxd\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67125 - Santillan - Jorge\punto2\punto2\obj\Debug\net10.0\punto2.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Desktop\Facu\programaciopn lol\Githubxd\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67125 - Santillan - Jorge\punto2\punto2\obj\Debug\net10.0\ref\punto2.dll
+C:\Users\USUARIO\OneDrive\Desktop\Facu\programaciopn lol\Githubxd\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\67125 - Santillan - Jorge\punto2\punto2\obj\Debug\net10.0\punto2.csproj.Up2Date

@@ -1,0 +1,15 @@
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio010\bin\Debug\net9.0\Ejercicio010.exe
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio010\bin\Debug\net9.0\Ejercicio010.deps.json
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio010\bin\Debug\net9.0\Ejercicio010.runtimeconfig.json
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio010\bin\Debug\net9.0\Ejercicio010.dll
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio010\bin\Debug\net9.0\Ejercicio010.pdb
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio010\obj\Debug\net9.0\Ejercicio010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio010\obj\Debug\net9.0\Ejercicio010.AssemblyInfoInputs.cache
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio010\obj\Debug\net9.0\Ejercicio010.AssemblyInfo.cs
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio010\obj\Debug\net9.0\Ejercicio010.csproj.CoreCompileInputs.cache
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio010\obj\Debug\net9.0\Ejercicio010.sourcelink.json
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio010\obj\Debug\net9.0\Ejercicio010.dll
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio010\obj\Debug\net9.0\refint\Ejercicio010.dll
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio010\obj\Debug\net9.0\Ejercicio010.pdb
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio010\obj\Debug\net9.0\Ejercicio010.genruntimeconfig.cache
+C:\Programacion_TUDPV_1\Progrmacion-1-TUDPV-Comision-1\Trabajos de Alumnos\EjerciciosTP\Ejercicio010\obj\Debug\net9.0\ref\Ejercicio010.dll
